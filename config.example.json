@@ -1,0 +1,12 @@
+{
+  "public_base_url": "https://radio.example.com/media",
+  "max_tracks": 200,
+  "generate_every_minutes": 25,
+  "weights": {
+    "suno": 4,
+    "elevenlabs": 3,
+    "lyria": 2,
+    "stable_audio": 2
+  },
+  "onion_base_url": ""
+}
